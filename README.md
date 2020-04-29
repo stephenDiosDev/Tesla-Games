@@ -8,6 +8,14 @@
 
 > Tesla Games
 
+## My Contributions
+My role was to integrate nVidia PhysX 4.0 into the project and create a physics engine that communicates with PhysX and the rest of the components of the game. I had to implement vehicles and tune the driving model to the feeling and handling we wanted. I also did all the programming for the traps, pickup boxes, winning/losing conditions and logic, lap system, race ranking (1st, 2nd), drivable track that matches the obj mesh, placement of the track traps and their behaviour. 
+
+While not fully represented by commits I also had various minor contributions to the camera, player mesh, pickup box and trap mesh, track mesh, vehicle AI, vehicle driving targets, vehicle AI components such as the shooting and trap placement, the audio system, in game HUD, and the rendering system.
+
+## Biggest Challenge
+Reading and learning how PhysX worked and how to integrate it into the rest of the project. I had never used any external library before and there aren't many tutorials (at all) for PhysX, so this project taught me how to look at documentation and integrate it into my own project. This was also a great learning experience for working with other people on a large project and how to read over other peoples code and understand it, even when there is a lack of commenting. I also gained a ton of experience in using Git and merging multiple changes at once without conflicts.
+
 ### 🏠 [Homepage](https://github.com/JuandeReiset/Tesla-Games)
 
 A project made by CPSC undergrads at the University of Calgary for the course CPSC 585
