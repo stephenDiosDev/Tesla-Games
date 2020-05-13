@@ -8,6 +8,10 @@
 
 > Tesla Games
 
+Youtube link https://www.youtube.com/watch?v=ftquclzoR98&feature=youtu.be
+
+
+
 ## My Contributions
 My role was to integrate nVidia PhysX 4.0 into the project and create a physics engine that communicates with PhysX and the rest of the components of the game. I had to implement vehicles and tune the driving model to the feeling and handling we wanted. I also did all the programming for the traps, pickup boxes, winning/losing conditions and logic, lap system, race ranking (1st, 2nd), drivable track that matches the obj mesh, placement of the track traps and their behaviour. 
 
